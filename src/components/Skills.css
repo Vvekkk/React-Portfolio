@@ -1,0 +1,30 @@
+.align-icon {
+  margin-bottom: 2rem;
+  margin-top: -2.8rem;
+}
+
+.java-icon,
+.html-icon,
+.css-icon,
+.js-icon,
+.react-icon,
+.python-icon {
+  display: inline-table;
+  margin-left: 140px;
+}
+
+.java-icon,
+.html-icon,
+.css-icon,
+.js-icon,
+.react-icon,
+.python-icon:hover {
+  cursor: pointer;
+}
+
+@media screen and (max-width: 670px) {
+  .icons-wrap {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
