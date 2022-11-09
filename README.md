@@ -1,4 +1,4 @@
-## VISIT SITE: vvekkk.github.io/React-Portfolio/
+## VISIT SITE: https://vvekkk.github.io/React-Portfolio/
 
 # Getting Started with Create React App
 
